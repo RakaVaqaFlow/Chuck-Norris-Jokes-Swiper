@@ -37,4 +37,4 @@ The application has three screens:
 - Each card has a picture of Chuck Noris
 
 ## APK:
-https://github.com/edikgoose/iu-flutter-yandex-course/blob/main/HW1-Chuck-Norris-Tinder/app-release.apk
+https://github.com/RakaVaqaFlow/Chuck-Norris-Jokes-Swiper/blob/main/app-release.apk
